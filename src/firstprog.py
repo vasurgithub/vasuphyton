@@ -1,2 +1,2 @@
 print("My first program.")
-print("Welcome to Phyton")
+print("Changes added to first program")
